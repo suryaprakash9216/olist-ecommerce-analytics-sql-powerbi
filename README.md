@@ -145,5 +145,15 @@ Developed interactive Power BI dashboards for business reporting and performance
 
 This project demonstrates end-to-end analytics capabilities including SQL querying, data cleaning, customer analytics, retention analysis, predictive business metrics, dashboard development, and business intelligence reporting.
 
+---
+
+## Live Dashboard
+
+Interactive Power BI Dashboard:
+
+https://app.powerbi.com/links/KW4TdS2Hm3?ctid=068b196a-2d57-407f-a70d-3c0571c3266a&pbi_source=linkShare
+
+---
+
 Skills Demonstrated:
 SQL | Power BI | DAX | Data Analysis | Customer Analytics | Business Intelligence | Data Visualisation | ETL | Data Modelling | RFM Analysis | Cohort Analysis | Customer Lifetime Value (CLV) | Market Basket Analysis
