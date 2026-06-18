@@ -109,27 +109,27 @@ Built interactive Power BI dashboards for business reporting and performance mon
 
 ### Executive Dashboard
 
-![Executive Dashboard](01_Executive_Dashboard.png)
+![Executive Dashboard](01_Executive_Dashboard.png.png)
 
 ### Customer Analytics
 
-![Customer Analytics](02_Customer_Analytics.png)
+![Customer Analytics](02_Customer_Analytics.png.png)
 
 ### Product Analytics
 
-![Product Analytics](03_Product_Analytics.png)
+![Product Analytics](03_Product_Analytics.png.png)
 
 ### Reviews & Logistics
 
-![Reviews & Logistics](04_Reviews_Logistics.png)
+![Reviews & Logistics](04_Reviews_Logistics.png.png)
 
 ### Retention & Churn Analysis
 
-![Retention & Churn Analysis](05_Retention_Churn.png)
+![Retention & Churn Analysis](05_Retention_Churn.png.png)
 
 ### Customer Lifetime Value (CLV)
 
-![CLV Analysis](06_CLV_Analysis.png)
+![CLV Analysis](06_CLV_Analysis.png.png)
 
 ---
 
